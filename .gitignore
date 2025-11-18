@@ -1,0 +1,12 @@
+# Ignore Environment and Database
+venv/
+.env
+db_data/ # Ignores the memory storage
+
+# Ignore Python and Project Artifacts
+__pycache__/
+*.pyc
+
+# Ignore Node Modules (Frontend)
+frontend/node_modules/
+frontend/dist/
