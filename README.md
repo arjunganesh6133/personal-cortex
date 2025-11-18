@@ -1,4 +1,8 @@
 # 🧠 Personal Cortex: An AI-Powered Memory Retrieval System
+THE PROBLEM
+Our digital lives are mess.We have notes in apple notes,bookmarks in chrome,files in Google drive,conversations in slack,and to do list in Notion.You can never find the one you're looking for.
+
+The App Idea:A single,unified "AI Search" that runs locally on your machine,connects to all your apps,and acts as your personal "Second brain".
 
 This is a full-stack application designed to store user text data (memories) and retrieve relevant information using **semantic search** powered by Vector Embeddings (ChromaDB). This acts as a private, external "brain" for storing and retrieving facts based on context and meaning, not just exact keywords.
 
