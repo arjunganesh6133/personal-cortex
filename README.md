@@ -1,5 +1,5 @@
 # 🧠 Personal Cortex: An AI-Powered Memory Retrieval System
-THE PROBLEM
+THE PROBLEM:
 Our digital lives are mess.We have notes in apple notes,bookmarks in chrome,files in Google drive,conversations in slack,and to do list in Notion.You can never find the one you're looking for.
 
 The App Idea:A single,unified "AI Search" that runs locally on your machine,connects to all your apps,and acts as your personal "Second brain".
